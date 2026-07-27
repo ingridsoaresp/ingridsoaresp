@@ -28,7 +28,7 @@ I am currently seeking my first opportunity as a Software Developer.
 - Apache Tomcat
   
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 - 🏦 ChattBank – Banking web application built with Java, JSP, Servlets, JDBC, and SQL.
 - 🦷 Dentist Office Management System – Desktop application for managing patients and appointments.
